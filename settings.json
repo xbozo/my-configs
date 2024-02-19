@@ -32,7 +32,6 @@
 	"svelte.enable-ts-plugin": true,
 	"editor.linkedEditing": true,
 	"codium.editorButton": false,
-	"cloudcode.duetAI.project": "ignite-call-403911",
 	"editor.codeActionsOnSave": ["source.organizeImports", "source.fixAll"],
 	"breadcrumbs.enabled": false,
 	"editor.minimap.enabled": false,
@@ -46,8 +45,11 @@
 	"workbench.startupEditor": "newUntitledFile",
 	"symbols.hidesExplorerArrows": false,
 	"explorer.fileNesting.enabled": true,
+	"symbols.files.associations": {
+		"*.e2e-spec.ts": "ts-test"
+	},
 	"explorer.fileNesting.patterns": {
-		"package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-lock*, bun.lockb, nest*, postcss*, .gitignore*, tailwind.config*, README*, next.config"
+		"package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-lock*, bun.lockb, nest*, postcss*, .gitignore*, tailwind.config*, README*, next.config, docker-compose.yml, debug.log"
 	},
 	"terminal.integrated.fontSize": 14,
 	"apc.electron": {
@@ -84,7 +86,15 @@
 		"Ubuntu (WSL)": {
 			"path": "C:\\WINDOWS\\System32\\wsl.exe",
 			"args": ["-d", "Ubuntu"]
+		},
+		"Cygwin": {
+			"path": "C:\\cygwin64\\bin\\fish.exe",
+			"args": []
 		}
 	},
-	"terminal.integrated.defaultProfile.windows": "PowerShell"
+	"terminal.external.windowsExec": "C:\\cygwin64\\bin\\fish.exe",
+	"terminal.integrated.defaultProfile.osx": "",
+	"terminal.integrated.defaultProfile.windows": "Cygwin",
+	"terminal.integrated.detectLocale": "on",
+	"terminal.integrated.fontFamily": "JetBrains Mono"
 }
