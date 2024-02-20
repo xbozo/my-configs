@@ -1,0 +1,99 @@
+{
+	"settingsSync.ignoredExtensions": [],
+	"prettier.useTabs": true,
+	"workbench.iconTheme": "symbols",
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"prettier.singleQuote": true,
+	"prettier.singleAttributePerLine": true,
+	"prettier.printWidth": 100,
+	"editor.tabSize": 2,
+	"explorer.compactFolders": false,
+	"[prisma]": {
+		"editor.defaultFormatter": "Prisma.prisma",
+		"editor.formatOnSave": true
+	},
+	"editor.fontFamily": "JetBrains Mono",
+	"editor.fontLigatures": true,
+	"editor.fontWeight": "400",
+	"editor.lineHeight": 1.5,
+	"workbench.editor.labelFormat": "short",
+	"editor.semanticHighlighting.enabled": false,
+	"editor.renderLineHighlight": "gutter",
+	"redhat.telemetry.enabled": false,
+	"reactSnippets.settings.importReactOnTop": false,
+	"terminal.integrated.env.windows": {},
+	"console-ninja.featureSet": "Community",
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"explorer.confirmDragAndDrop": false,
+	"prettier.jsxSingleQuote": true,
+	"prettier.semi": false,
+	"eslint.run": "onSave",
+	"svelte.enable-ts-plugin": true,
+	"editor.linkedEditing": true,
+	"codium.editorButton": false,
+	"editor.codeActionsOnSave": ["source.organizeImports", "source.fixAll"],
+	"breadcrumbs.enabled": false,
+	"editor.minimap.enabled": false,
+	"search.searchOnType": false,
+	"terminal.integrated.gpuAcceleration": "on",
+	"editor.codeLens": false,
+	"window.commandCenter": false,
+	"window.menuBarVisibility": "compact",
+	"workbench.colorTheme": "Min Darker",
+	"workbench.statusBar.visible": false,
+	"workbench.startupEditor": "newUntitledFile",
+	"symbols.hidesExplorerArrows": false,
+	"explorer.fileNesting.enabled": true,
+	"symbols.files.associations": {
+		"*.e2e-spec.ts": "ts-test"
+	},
+	"explorer.fileNesting.patterns": {
+		"package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-lock*, bun.lockb, nest*, postcss*, .gitignore*, tailwind.config*, README*, next.config, docker-compose.yml, debug.log"
+	},
+	"terminal.integrated.fontSize": 14,
+	"apc.electron": {
+		"titleBarStyle": "hiddenInset"
+	},
+	"apc.header": {
+		"height": 36
+	},
+	"apc.stylesheet": {
+		".title-label > h2": "display: none",
+		".editor-actions": "display: none",
+		".nosidebar .inline-tabs-placeholder": "width: 75px",
+		".pane-header": "padding: 0 8px",
+		".pane-body": "padding: 8px",
+		".split-view-view:first-child .pane-header": "display: none !important;",
+		".monaco-list-row": "border-radius: 4px;",
+		".monaco-workbench .monaco-list:not(.element-focused):focus:before": "display: none;"
+	},
+	"workbench.layoutControl.enabled": false,
+	"terminal.integrated.profiles.windows": {
+		"PowerShell": {
+			"source": "PowerShell",
+			"icon": "terminal-powershell"
+		},
+		"Command Prompt": {
+			"path": ["${env:windir}\\Sysnative\\cmd.exe", "${env:windir}\\System32\\cmd.exe"],
+			"args": [],
+			"icon": "terminal-cmd"
+		},
+		"Git Bash": {
+			"source": "Git Bash"
+		},
+		"Ubuntu (WSL)": {
+			"path": "C:\\WINDOWS\\System32\\wsl.exe",
+			"args": ["-d", "Ubuntu"]
+		},
+		"Cygwin": {
+			"path": "C:\\cygwin64\\bin\\fish.exe",
+			"args": []
+		}
+	},
+	"terminal.external.windowsExec": "C:\\cygwin64\\bin\\fish.exe",
+	"terminal.integrated.defaultProfile.osx": "",
+	"terminal.integrated.defaultProfile.windows": "Cygwin",
+	"terminal.integrated.detectLocale": "on",
+	"terminal.integrated.fontFamily": "JetBrains Mono"
+}

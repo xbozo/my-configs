@@ -1,0 +1,1087 @@
+[
+	{
+		"identifier": {
+			"id": "omthemes.omthemes",
+			"uuid": "c471cc0c-80b0-4751-ba3f-2b15152444e3"
+		},
+		"version": "1.0.17",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/omthemes.omthemes-1.0.17",
+			"scheme": "file"
+		},
+		"relativeLocation": "omthemes.omthemes-1.0.17",
+		"metadata": {
+			"id": "c471cc0c-80b0-4751-ba3f-2b15152444e3",
+			"publisherId": "79a98774-a863-4c03-bd66-ed4e485c31c7",
+			"publisherDisplayName": "omthemes",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1698229420324,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "digitalbrainstem.javascript-ejs-support",
+			"uuid": "9cd87837-c82a-4817-9b79-1c84775aa158"
+		},
+		"version": "1.3.3",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/digitalbrainstem.javascript-ejs-support-1.3.3",
+			"scheme": "file"
+		},
+		"relativeLocation": "digitalbrainstem.javascript-ejs-support-1.3.3",
+		"metadata": {
+			"id": "9cd87837-c82a-4817-9b79-1c84775aa158",
+			"publisherId": "8a82c29a-f974-4692-be63-35a118c52919",
+			"publisherDisplayName": "DigitalBrainstem",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1698232510467,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "esbenp.prettier-vscode",
+			"uuid": "96fa4707-6983-4489-b7c5-d5ffdfdcce90"
+		},
+		"version": "10.1.0",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/esbenp.prettier-vscode-10.1.0",
+			"scheme": "file"
+		},
+		"relativeLocation": "esbenp.prettier-vscode-10.1.0",
+		"metadata": {
+			"id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+			"publisherId": "d16f4e39-2ffb-44e3-9c0d-79d873570e3a",
+			"publisherDisplayName": "Prettier",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1698232541692,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "redhat.vscode-xml",
+			"uuid": "6703768d-d42f-474e-9f6e-5f288d53f6e8"
+		},
+		"version": "0.26.1",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/redhat.vscode-xml-0.26.1-win32-x64",
+			"scheme": "file"
+		},
+		"relativeLocation": "redhat.vscode-xml-0.26.1-win32-x64",
+		"metadata": {
+			"id": "6703768d-d42f-474e-9f6e-5f288d53f6e8",
+			"publisherId": "eed56242-9699-4317-8bc7-e9f4b9bdd3ff",
+			"publisherDisplayName": "Red Hat",
+			"targetPlatform": "win32-x64",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1698232913253,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "styled-components.vscode-styled-components",
+			"uuid": "22a740c5-ec07-4bf0-a58f-1a38aabea310"
+		},
+		"version": "1.7.8",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/styled-components.vscode-styled-components-1.7.8",
+			"scheme": "file"
+		},
+		"relativeLocation": "styled-components.vscode-styled-components-1.7.8",
+		"metadata": {
+			"id": "22a740c5-ec07-4bf0-a58f-1a38aabea310",
+			"publisherId": "608ef4b3-a3fc-4d26-918a-19c0d8435cf4",
+			"publisherDisplayName": "Styled Components",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1698232969910,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "heybourn.headwind",
+			"uuid": "6226e0be-5975-4616-948c-545d562adc1d"
+		},
+		"version": "1.7.0",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/heybourn.headwind-1.7.0",
+			"scheme": "file"
+		},
+		"relativeLocation": "heybourn.headwind-1.7.0",
+		"metadata": {
+			"id": "6226e0be-5975-4616-948c-545d562adc1d",
+			"publisherId": "637eb2b9-b01e-4059-9fc4-f6b7ff485929",
+			"publisherDisplayName": "Ryan Heybourn",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1698233667735,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "visualstudioexptteam.vscodeintellicode",
+			"uuid": "876e8f93-74d0-4f4f-91b7-34a09f19f444"
+		},
+		"version": "1.2.30",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.30",
+			"scheme": "file"
+		},
+		"relativeLocation": "visualstudioexptteam.vscodeintellicode-1.2.30",
+		"metadata": {
+			"id": "876e8f93-74d0-4f4f-91b7-34a09f19f444",
+			"publisherId": "e8db1608-52e8-4d8d-92a6-779c5db302a9",
+			"publisherDisplayName": "Microsoft",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1698501630553,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "icrawl.discord-vscode",
+			"uuid": "2bbe1392-1ad3-4f59-82bc-fccaa3afc3a5"
+		},
+		"version": "5.8.0",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/icrawl.discord-vscode-5.8.0",
+			"scheme": "file"
+		},
+		"relativeLocation": "icrawl.discord-vscode-5.8.0",
+		"metadata": {
+			"id": "2bbe1392-1ad3-4f59-82bc-fccaa3afc3a5",
+			"publisherId": "5ccbcc66-3677-482b-9f60-f342bfe54f8d",
+			"publisherDisplayName": "Crawl",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1698587176313,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "wix.vscode-import-cost",
+			"uuid": "c46b0018-f317-4b6c-a785-d2039b27338f"
+		},
+		"version": "3.3.0",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/wix.vscode-import-cost-3.3.0",
+			"scheme": "file"
+		},
+		"relativeLocation": "wix.vscode-import-cost-3.3.0",
+		"metadata": {
+			"id": "c46b0018-f317-4b6c-a785-d2039b27338f",
+			"publisherId": "7a344d8a-64ec-42a7-9255-9eacf94e746a",
+			"publisherDisplayName": "Wix",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1698858760501,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "meganrogge.template-string-converter",
+			"uuid": "e56ae0dc-ddd7-462a-872d-6d14ea27f737"
+		},
+		"version": "0.6.1",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/meganrogge.template-string-converter-0.6.1",
+			"scheme": "file"
+		},
+		"relativeLocation": "meganrogge.template-string-converter-0.6.1",
+		"metadata": {
+			"id": "e56ae0dc-ddd7-462a-872d-6d14ea27f737",
+			"publisherId": "50b8f3e2-af1c-4060-9399-1b2edd6a2822",
+			"publisherDisplayName": "meganrogge",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1699923973639,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "gerane.theme-dark-dracula",
+			"uuid": "4205a417-2cf8-47a9-bb25-80853cefcaa1"
+		},
+		"version": "0.0.5",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/gerane.theme-dark-dracula-0.0.5",
+			"scheme": "file"
+		},
+		"relativeLocation": "gerane.theme-dark-dracula-0.0.5",
+		"metadata": {
+			"id": "4205a417-2cf8-47a9-bb25-80853cefcaa1",
+			"publisherId": "a5c25faf-bf60-4941-81b9-9a852b96c5fb",
+			"publisherDisplayName": "gerane",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1700215231012,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "viktorqvarfordt.vscode-pitch-black-theme",
+			"uuid": "28b20c66-dbb8-4c01-a0f9-590be00ec2d3"
+		},
+		"version": "1.3.0",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/viktorqvarfordt.vscode-pitch-black-theme-1.3.0",
+			"scheme": "file"
+		},
+		"relativeLocation": "viktorqvarfordt.vscode-pitch-black-theme-1.3.0",
+		"metadata": {
+			"id": "28b20c66-dbb8-4c01-a0f9-590be00ec2d3",
+			"publisherId": "53adf0ce-7239-4cba-a1a3-7a8a83aa5fce",
+			"publisherDisplayName": "Viktor Qvarfordt",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1700215273418,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "nimda.deepdark-material",
+			"uuid": "d1b33efe-8957-4d14-9ef6-e043fdbe9079"
+		},
+		"version": "3.3.1",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/nimda.deepdark-material-3.3.1",
+			"scheme": "file"
+		},
+		"relativeLocation": "nimda.deepdark-material-3.3.1",
+		"metadata": {
+			"id": "d1b33efe-8957-4d14-9ef6-e043fdbe9079",
+			"publisherId": "4d614a70-f7df-4afa-b5d5-918bc0cfe0ff",
+			"publisherDisplayName": "Nimda",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1700215419082,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "csstools.postcss",
+			"uuid": "80def04d-6d01-495b-9d59-4ad19408872f"
+		},
+		"version": "1.0.9",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/csstools.postcss-1.0.9",
+			"scheme": "file"
+		},
+		"relativeLocation": "csstools.postcss-1.0.9",
+		"metadata": {
+			"id": "80def04d-6d01-495b-9d59-4ad19408872f",
+			"publisherId": "12124fac-8185-4b27-9cad-a662f8f3ecdd",
+			"publisherDisplayName": "csstools",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1700217475675,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "formulahendry.auto-rename-tag",
+			"uuid": "6e440e71-8ed9-4f25-bb78-4b13096b8a03"
+		},
+		"version": "0.1.10",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10",
+			"scheme": "file"
+		},
+		"relativeLocation": "formulahendry.auto-rename-tag-0.1.10",
+		"metadata": {
+			"id": "6e440e71-8ed9-4f25-bb78-4b13096b8a03",
+			"publisherId": "38bbe3f0-5204-4170-845e-c2f966d979b8",
+			"publisherDisplayName": "Jun Han",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1700411186287,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "redhat.vscode-yaml",
+			"uuid": "2061917f-f76a-458a-8da9-f162de22b97e"
+		},
+		"version": "1.14.0",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/redhat.vscode-yaml-1.14.0",
+			"scheme": "file"
+		},
+		"relativeLocation": "redhat.vscode-yaml-1.14.0",
+		"metadata": {
+			"id": "2061917f-f76a-458a-8da9-f162de22b97e",
+			"publisherId": "eed56242-9699-4317-8bc7-e9f4b9bdd3ff",
+			"publisherDisplayName": "Red Hat",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1700412196660,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "sirtori.indenticator",
+			"uuid": "fcbdb08e-4048-40e8-a674-fecc476f4b93"
+		},
+		"version": "0.7.0",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/sirtori.indenticator-0.7.0",
+			"scheme": "file"
+		},
+		"relativeLocation": "sirtori.indenticator-0.7.0",
+		"metadata": {
+			"id": "fcbdb08e-4048-40e8-a674-fecc476f4b93",
+			"publisherId": "bcd8e4d6-8e95-4703-9b4a-db56ae6fdef3",
+			"publisherDisplayName": "SirTori",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1700412314074,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "kisstkondoros.vscode-gutter-preview",
+			"uuid": "eedfd044-d5ac-4389-973d-3ac1fdb98ad5"
+		},
+		"version": "0.30.0",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/kisstkondoros.vscode-gutter-preview-0.30.0",
+			"scheme": "file"
+		},
+		"relativeLocation": "kisstkondoros.vscode-gutter-preview-0.30.0",
+		"metadata": {
+			"id": "eedfd044-d5ac-4389-973d-3ac1fdb98ad5",
+			"publisherId": "87e3e2a4-ac17-425a-a4b6-698bc44254fe",
+			"publisherDisplayName": "Kiss Tamás",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1700412436625,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "aykutsarac.jsoncrack-vscode",
+			"uuid": "87c9998f-5c0f-49ee-b89f-51340cdc449a"
+		},
+		"version": "2.0.2",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/aykutsarac.jsoncrack-vscode-2.0.2",
+			"scheme": "file"
+		},
+		"relativeLocation": "aykutsarac.jsoncrack-vscode-2.0.2",
+		"metadata": {
+			"id": "87c9998f-5c0f-49ee-b89f-51340cdc449a",
+			"publisherId": "29da73b9-966a-467b-8a22-12f62d0807b1",
+			"publisherDisplayName": "Aykut Saraç",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1700788296967,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "editorconfig.editorconfig",
+			"uuid": "f60a60a6-95ba-42d4-b41c-3d24c1b89588"
+		},
+		"version": "0.16.4",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/editorconfig.editorconfig-0.16.4",
+			"scheme": "file"
+		},
+		"relativeLocation": "editorconfig.editorconfig-0.16.4",
+		"metadata": {
+			"id": "f60a60a6-95ba-42d4-b41c-3d24c1b89588",
+			"publisherId": "1ed869e4-8588-4af4-a51e-9c1c86b034b9",
+			"publisherDisplayName": "EditorConfig",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1701314342362,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "usernamehw.errorlens",
+			"uuid": "9d8c32ab-354c-4daf-a9bf-20b633734435"
+		},
+		"version": "3.16.0",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/usernamehw.errorlens-3.16.0",
+			"scheme": "file"
+		},
+		"relativeLocation": "usernamehw.errorlens-3.16.0",
+		"metadata": {
+			"id": "9d8c32ab-354c-4daf-a9bf-20b633734435",
+			"publisherId": "151820df-5dc5-4c97-8751-eb84643203fa",
+			"publisherDisplayName": "Alexander",
+			"targetPlatform": "undefined",
+			"isApplicationScoped": false,
+			"updated": true,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1702737641271,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "formulahendry.auto-close-tag",
+			"uuid": "d3836729-9cc1-42c1-b2af-d50071f57d29"
+		},
+		"version": "0.5.15",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/formulahendry.auto-close-tag-0.5.15",
+			"scheme": "file"
+		},
+		"relativeLocation": "formulahendry.auto-close-tag-0.5.15",
+		"metadata": {
+			"id": "d3836729-9cc1-42c1-b2af-d50071f57d29",
+			"publisherId": "38bbe3f0-5204-4170-845e-c2f966d979b8",
+			"publisherDisplayName": "Jun Han",
+			"targetPlatform": "undefined",
+			"isApplicationScoped": false,
+			"updated": true,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1702977352188,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "bierner.emojisense",
+			"uuid": "081cd2e9-bc51-4ea3-977e-544bed2e33a8"
+		},
+		"version": "0.10.0",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/bierner.emojisense-0.10.0",
+			"scheme": "file"
+		},
+		"relativeLocation": "bierner.emojisense-0.10.0",
+		"metadata": {
+			"id": "081cd2e9-bc51-4ea3-977e-544bed2e33a8",
+			"publisherId": "f164f116-e2aa-496b-84dc-2451248e8beb",
+			"publisherDisplayName": "Matt Bierner",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1703065366288,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "shd101wyy.markdown-preview-enhanced",
+			"uuid": "3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a"
+		},
+		"version": "0.8.11",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.8.11",
+			"scheme": "file"
+		},
+		"relativeLocation": "shd101wyy.markdown-preview-enhanced-0.8.11",
+		"metadata": {
+			"id": "3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a",
+			"publisherId": "deac4ec9-08f5-4752-aa45-c6f09e1f615d",
+			"publisherDisplayName": "Yiyi Wang",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1703510498821,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "tehmatcha.roselia-theme",
+			"uuid": "87e0656f-b219-4468-9990-d77bf05a7bec"
+		},
+		"version": "3.4.0",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/tehmatcha.roselia-theme-3.4.0",
+			"scheme": "file"
+		},
+		"relativeLocation": "tehmatcha.roselia-theme-3.4.0",
+		"metadata": {
+			"id": "87e0656f-b219-4468-9990-d77bf05a7bec",
+			"publisherId": "40b20964-b980-4709-bed8-192e4b653014",
+			"publisherDisplayName": "TehMatcha",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1704341839459,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "bradlc.vscode-tailwindcss",
+			"uuid": "4db62a7c-7d70-419c-96d2-6c3a4dc77ea5"
+		},
+		"version": "0.10.5",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/bradlc.vscode-tailwindcss-0.10.5",
+			"scheme": "file"
+		},
+		"relativeLocation": "bradlc.vscode-tailwindcss-0.10.5",
+		"metadata": {
+			"id": "4db62a7c-7d70-419c-96d2-6c3a4dc77ea5",
+			"publisherId": "84722833-669b-4c7d-920e-b60e43fae19a",
+			"publisherDisplayName": "Tailwind Labs",
+			"targetPlatform": "undefined",
+			"isApplicationScoped": false,
+			"updated": true,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1704493268799,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "yoavbls.pretty-ts-errors",
+			"uuid": "1e149c89-8f97-447e-863d-1146f0ad1b70"
+		},
+		"version": "0.5.3",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/yoavbls.pretty-ts-errors-0.5.3",
+			"scheme": "file"
+		},
+		"relativeLocation": "yoavbls.pretty-ts-errors-0.5.3",
+		"metadata": {
+			"id": "1e149c89-8f97-447e-863d-1146f0ad1b70",
+			"publisherId": "0939a3c0-6896-4249-bfa3-4ff58ebaccd0",
+			"publisherDisplayName": "yoavbls",
+			"targetPlatform": "undefined",
+			"isApplicationScoped": false,
+			"updated": true,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1704601613317,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "attilabuti.mustache-syntax-vscode",
+			"uuid": "39745952-aa3c-497d-9d03-e0d1164eb7dc"
+		},
+		"version": "0.1.0",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/attilabuti.mustache-syntax-vscode-0.1.0",
+			"scheme": "file"
+		},
+		"relativeLocation": "attilabuti.mustache-syntax-vscode-0.1.0",
+		"metadata": {
+			"id": "39745952-aa3c-497d-9d03-e0d1164eb7dc",
+			"publisherId": "fb40980c-d96a-4437-9a70-df0dbe442bfe",
+			"publisherDisplayName": "Attila Buti",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1704796882275,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "miguelsolorio.min-theme",
+			"uuid": "e9e7f567-5669-4c9c-a2db-df05d6cf28ed"
+		},
+		"version": "1.5.0",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/miguelsolorio.min-theme-1.5.0",
+			"scheme": "file"
+		},
+		"relativeLocation": "miguelsolorio.min-theme-1.5.0",
+		"metadata": {
+			"id": "e9e7f567-5669-4c9c-a2db-df05d6cf28ed",
+			"publisherId": "f1903af7-ceb4-410f-b269-cd514b33bea2",
+			"publisherDisplayName": "Miguel Solorio",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1705006234079,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "st0pien.min-darker",
+			"uuid": "b8364980-d13b-4d2e-ac53-91f1d3aff857"
+		},
+		"version": "0.0.2",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/st0pien.min-darker-0.0.2",
+			"scheme": "file"
+		},
+		"relativeLocation": "st0pien.min-darker-0.0.2",
+		"metadata": {
+			"id": "b8364980-d13b-4d2e-ac53-91f1d3aff857",
+			"publisherId": "4c051714-9eb7-4316-9f4f-d29270cf6893",
+			"publisherDisplayName": "St0pien",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1705006308847,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "siriussdev.min-darkest-dracula",
+			"uuid": "2aad4688-7e1a-4dbc-852c-dd272883cf79"
+		},
+		"version": "2.0.1",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/siriussdev.min-darkest-dracula-2.0.1",
+			"scheme": "file"
+		},
+		"relativeLocation": "siriussdev.min-darkest-dracula-2.0.1",
+		"metadata": {
+			"id": "2aad4688-7e1a-4dbc-852c-dd272883cf79",
+			"publisherId": "5f9df7ce-4c87-422b-96bf-6bbfe559b27c",
+			"publisherDisplayName": "Sirius Dev",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1705006335181,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "miguelsolorio.symbols",
+			"uuid": "cb54c3b9-1c64-4c4a-8b5a-887270ffe4b6"
+		},
+		"version": "0.0.16",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/miguelsolorio.symbols-0.0.16",
+			"scheme": "file"
+		},
+		"relativeLocation": "miguelsolorio.symbols-0.0.16",
+		"metadata": {
+			"id": "cb54c3b9-1c64-4c4a-8b5a-887270ffe4b6",
+			"publisherId": "f1903af7-ceb4-410f-b269-cd514b33bea2",
+			"publisherDisplayName": "Miguel Solorio",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1705006405470,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "drcika.apc-extension",
+			"uuid": "c445982f-a615-472b-a90e-0a9edd88b8e8"
+		},
+		"version": "0.3.6",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/drcika.apc-extension-0.3.6",
+			"scheme": "file"
+		},
+		"relativeLocation": "drcika.apc-extension-0.3.6",
+		"metadata": {
+			"id": "c445982f-a615-472b-a90e-0a9edd88b8e8",
+			"publisherId": "4339fafa-4bed-499a-af81-4eb425456c60",
+			"publisherDisplayName": "drcika",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1705007189761,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "fooxly.workspace",
+			"uuid": "9c296dd4-8f0b-44a0-8948-f6989e87ce23"
+		},
+		"version": "1.3.0",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/fooxly.workspace-1.3.0",
+			"scheme": "file"
+		},
+		"relativeLocation": "fooxly.workspace-1.3.0",
+		"metadata": {
+			"id": "9c296dd4-8f0b-44a0-8948-f6989e87ce23",
+			"publisherId": "694bf93c-933e-4a74-b8b1-0c92ef5d1a01",
+			"publisherDisplayName": "Fooxly",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1705098538353,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "dbaeumer.vscode-eslint",
+			"uuid": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a"
+		},
+		"version": "2.4.4",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/dbaeumer.vscode-eslint-2.4.4",
+			"scheme": "file"
+		},
+		"relativeLocation": "dbaeumer.vscode-eslint-2.4.4",
+		"metadata": {
+			"id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
+			"publisherId": "29859a75-d81b-4f0e-8578-2c80ecee6f99",
+			"publisherDisplayName": "Microsoft",
+			"targetPlatform": "undefined",
+			"isApplicationScoped": false,
+			"updated": true,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1705962158664,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "prisma.prisma",
+			"uuid": "33ce9d6b-41cf-4972-a62b-386f7201981d"
+		},
+		"version": "5.9.1",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/prisma.prisma-5.9.1",
+			"scheme": "file"
+		},
+		"relativeLocation": "prisma.prisma-5.9.1",
+		"metadata": {
+			"id": "33ce9d6b-41cf-4972-a62b-386f7201981d",
+			"publisherId": "2397d6f3-c7f1-4b03-9029-414f731a68ec",
+			"publisherDisplayName": "Prisma",
+			"targetPlatform": "undefined",
+			"isApplicationScoped": false,
+			"updated": true,
+			"isPreReleaseVersion": false,
+			"installedTimestamp": 1706809164166,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "unifiedjs.vscode-mdx",
+			"uuid": "af8cfc85-cb72-45d0-bae2-9a98cd0c69f3"
+		},
+		"version": "1.7.1",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/unifiedjs.vscode-mdx-1.7.1",
+			"scheme": "file"
+		},
+		"relativeLocation": "unifiedjs.vscode-mdx-1.7.1",
+		"metadata": {
+			"id": "af8cfc85-cb72-45d0-bae2-9a98cd0c69f3",
+			"publisherId": "207bcd0f-c1b5-4dc9-ab76-47615c59238d",
+			"publisherDisplayName": "unified",
+			"targetPlatform": "undefined",
+			"isApplicationScoped": false,
+			"updated": true,
+			"isPreReleaseVersion": false,
+			"hasPreReleaseVersion": false,
+			"installedTimestamp": 1706894394986,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "rvest.vs-code-prettier-eslint",
+			"uuid": "d4b06bd6-36a0-469f-be55-c0a73413b688"
+		},
+		"version": "6.0.0",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/rvest.vs-code-prettier-eslint-6.0.0",
+			"scheme": "file"
+		},
+		"relativeLocation": "rvest.vs-code-prettier-eslint-6.0.0",
+		"metadata": {
+			"id": "d4b06bd6-36a0-469f-be55-c0a73413b688",
+			"publisherId": "b95e678b-a11b-44b4-b281-6b521c2005bc",
+			"publisherDisplayName": "Rebecca Vest",
+			"targetPlatform": "undefined",
+			"isApplicationScoped": false,
+			"updated": true,
+			"isPreReleaseVersion": false,
+			"hasPreReleaseVersion": false,
+			"installedTimestamp": 1707250093566,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "svelte.svelte-vscode",
+			"uuid": "c5463f77-75d9-4a25-8cc4-d8541a461285"
+		},
+		"version": "108.2.2",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/svelte.svelte-vscode-108.2.2",
+			"scheme": "file"
+		},
+		"relativeLocation": "svelte.svelte-vscode-108.2.2",
+		"metadata": {
+			"id": "c5463f77-75d9-4a25-8cc4-d8541a461285",
+			"publisherId": "c3bf51ad-baaa-466c-952c-9c3ca9bfabed",
+			"publisherDisplayName": "Svelte",
+			"targetPlatform": "undefined",
+			"isApplicationScoped": false,
+			"updated": true,
+			"isPreReleaseVersion": false,
+			"hasPreReleaseVersion": false,
+			"installedTimestamp": 1707412028773,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "googlecloudtools.cloudcode",
+			"uuid": "5e8803a2-3dc8-42b3-9c5f-ea9d37828c03"
+		},
+		"version": "2.4.0",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/googlecloudtools.cloudcode-2.4.0",
+			"scheme": "file"
+		},
+		"relativeLocation": "googlecloudtools.cloudcode-2.4.0",
+		"metadata": {
+			"id": "5e8803a2-3dc8-42b3-9c5f-ea9d37828c03",
+			"publisherId": "f24fd523-af08-49d8-bb0b-f4eda502706e",
+			"publisherDisplayName": "Google Cloud",
+			"targetPlatform": "undefined",
+			"updated": false,
+			"isPreReleaseVersion": false,
+			"hasPreReleaseVersion": false,
+			"installedTimestamp": 1707519012446,
+			"pinned": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "wallabyjs.console-ninja",
+			"uuid": "6a994cdf-21a5-4e80-b0a5-601acdad9bf9"
+		},
+		"version": "1.0.287",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/wallabyjs.console-ninja-1.0.287",
+			"scheme": "file"
+		},
+		"relativeLocation": "wallabyjs.console-ninja-1.0.287",
+		"metadata": {
+			"id": "6a994cdf-21a5-4e80-b0a5-601acdad9bf9",
+			"publisherId": "9e43bb4e-4318-4e59-b5c2-df1109a963dd",
+			"publisherDisplayName": "Wallaby.js",
+			"targetPlatform": "undefined",
+			"isApplicationScoped": false,
+			"updated": true,
+			"isPreReleaseVersion": false,
+			"hasPreReleaseVersion": false,
+			"installedTimestamp": 1707791730381,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "ms-azuretools.vscode-docker",
+			"uuid": "0479fc1c-3d67-49f9-b087-fb9069afe48f"
+		},
+		"version": "1.29.0",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/ms-azuretools.vscode-docker-1.29.0",
+			"scheme": "file"
+		},
+		"relativeLocation": "ms-azuretools.vscode-docker-1.29.0",
+		"metadata": {
+			"id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
+			"publisherId": "52b787f2-79a9-4f32-99b4-393afe3005d3",
+			"publisherDisplayName": "Microsoft",
+			"targetPlatform": "undefined",
+			"isApplicationScoped": false,
+			"updated": true,
+			"isPreReleaseVersion": false,
+			"hasPreReleaseVersion": false,
+			"installedTimestamp": 1707880164414,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "angular.ng-template",
+			"uuid": "a92d457e-6f3f-4167-8087-1a54e1b6e00e"
+		},
+		"version": "17.2.2",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/angular.ng-template-17.2.2",
+			"scheme": "file"
+		},
+		"relativeLocation": "angular.ng-template-17.2.2",
+		"metadata": {
+			"id": "a92d457e-6f3f-4167-8087-1a54e1b6e00e",
+			"publisherId": "5a69cff0-bd3b-4074-999f-4952fc2b037a",
+			"publisherDisplayName": "Angular",
+			"targetPlatform": "undefined",
+			"isApplicationScoped": false,
+			"updated": true,
+			"isPreReleaseVersion": false,
+			"hasPreReleaseVersion": false,
+			"installedTimestamp": 1707993036932,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "pkief.material-icon-theme",
+			"uuid": "5db78037-f674-459f-a236-db622c427c5b"
+		},
+		"version": "4.34.0",
+		"location": {
+			"$mid": 1,
+			"path": "/c:/Users/imlui/.vscode/extensions/pkief.material-icon-theme-4.34.0",
+			"scheme": "file"
+		},
+		"relativeLocation": "pkief.material-icon-theme-4.34.0",
+		"metadata": {
+			"id": "5db78037-f674-459f-a236-db622c427c5b",
+			"publisherId": "f9e5bc2f-fea1-4075-917f-d83e01e69f56",
+			"publisherDisplayName": "Philipp Kief",
+			"targetPlatform": "undefined",
+			"isApplicationScoped": false,
+			"updated": true,
+			"isPreReleaseVersion": false,
+			"hasPreReleaseVersion": false,
+			"installedTimestamp": 1708338840039,
+			"pinned": false,
+			"preRelease": false
+		}
+	},
+	{
+		"identifier": {
+			"id": "codium.codium",
+			"uuid": "9236e634-e663-41bc-b320-03ab778e7110"
+		},
+		"version": "0.7.41",
+		"location": {
+			"$mid": 1,
+			"fsPath": "c:\\Users\\imlui\\.vscode\\extensions\\codium.codium-0.7.41",
+			"_sep": 1,
+			"external": "file:///c%3A/Users/imlui/.vscode/extensions/codium.codium-0.7.41",
+			"path": "/c:/Users/imlui/.vscode/extensions/codium.codium-0.7.41",
+			"scheme": "file"
+		},
+		"relativeLocation": "codium.codium-0.7.41",
+		"metadata": {
+			"id": "9236e634-e663-41bc-b320-03ab778e7110",
+			"publisherId": "56dacd20-3841-46d0-963a-7f554bff5edd",
+			"publisherDisplayName": "CodiumAI - Generate Meaningful Tests",
+			"targetPlatform": "undefined",
+			"isApplicationScoped": false,
+			"updated": true,
+			"isPreReleaseVersion": false,
+			"hasPreReleaseVersion": false,
+			"installedTimestamp": 1708428107012,
+			"pinned": false,
+			"preRelease": false
+		}
+	}
+]
